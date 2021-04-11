@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FnahiM/9bax+fplvlYzclvW2hQdAeeu7YvFdtWUVwdLiJVK2wW3h9CxB56RVqvztQxumRlj950tuM/7g2PNZWg==",
+  "dgSpecHash": "j8qHbr+oU6/ucflINstf7PvlZ3lWfPAfTmFAJPOI9Rv95bqpUG2pjpoRSTFySx5lhi7FQcvySZ718dN4r3XpNA==",
   "success": true,
-  "projectFilePath": "C:\\!Pojects\\Interview\\Hoff\\Hoff.Interview\\Hoff.Api.UnitTests\\Hoff.Api.UnitTests.csproj",
+  "projectFilePath": "C:\\!Pojects\\HoffTestTask\\Hoff.Api.UnitTests\\Hoff.Api.UnitTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\William\\.nuget\\packages\\coverlet.collector\\1.3.0\\coverlet.collector.1.3.0.nupkg.sha512",
     "C:\\Users\\William\\.nuget\\packages\\fluentassertions\\5.10.3\\fluentassertions.5.10.3.nupkg.sha512",

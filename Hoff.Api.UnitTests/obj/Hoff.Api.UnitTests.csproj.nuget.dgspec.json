@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\!Pojects\\Interview\\Hoff\\Hoff.Interview\\Hoff.Api.UnitTests\\Hoff.Api.UnitTests.csproj": {}
+    "C:\\!Pojects\\HoffTestTask\\Hoff.Api.UnitTests\\Hoff.Api.UnitTests.csproj": {}
   },
   "projects": {
-    "C:\\!Pojects\\Interview\\Hoff\\Hoff.Interview\\Hoff.Api.UnitTests\\Hoff.Api.UnitTests.csproj": {
+    "C:\\!Pojects\\HoffTestTask\\Hoff.Api.UnitTests\\Hoff.Api.UnitTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\!Pojects\\Interview\\Hoff\\Hoff.Interview\\Hoff.Api.UnitTests\\Hoff.Api.UnitTests.csproj",
+        "projectUniqueName": "C:\\!Pojects\\HoffTestTask\\Hoff.Api.UnitTests\\Hoff.Api.UnitTests.csproj",
         "projectName": "Hoff.Api.UnitTests",
-        "projectPath": "C:\\!Pojects\\Interview\\Hoff\\Hoff.Interview\\Hoff.Api.UnitTests\\Hoff.Api.UnitTests.csproj",
+        "projectPath": "C:\\!Pojects\\HoffTestTask\\Hoff.Api.UnitTests\\Hoff.Api.UnitTests.csproj",
         "packagesPath": "C:\\Users\\William\\.nuget\\packages\\",
-        "outputPath": "C:\\!Pojects\\Interview\\Hoff\\Hoff.Interview\\Hoff.Api.UnitTests\\obj\\",
+        "outputPath": "C:\\!Pojects\\HoffTestTask\\Hoff.Api.UnitTests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -36,8 +36,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\!Pojects\\Interview\\Hoff\\Hoff.Interview\\Hoff.Api\\Hoff.Api.csproj": {
-                "projectPath": "C:\\!Pojects\\Interview\\Hoff\\Hoff.Interview\\Hoff.Api\\Hoff.Api.csproj"
+              "C:\\!Pojects\\HoffTestTask\\Hoff.Api\\Hoff.Api.csproj": {
+                "projectPath": "C:\\!Pojects\\HoffTestTask\\Hoff.Api\\Hoff.Api.csproj"
               }
             }
           }
@@ -96,14 +96,14 @@
         }
       }
     },
-    "C:\\!Pojects\\Interview\\Hoff\\Hoff.Interview\\Hoff.Api\\Hoff.Api.csproj": {
+    "C:\\!Pojects\\HoffTestTask\\Hoff.Api\\Hoff.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\!Pojects\\Interview\\Hoff\\Hoff.Interview\\Hoff.Api\\Hoff.Api.csproj",
+        "projectUniqueName": "C:\\!Pojects\\HoffTestTask\\Hoff.Api\\Hoff.Api.csproj",
         "projectName": "Hoff.Api",
-        "projectPath": "C:\\!Pojects\\Interview\\Hoff\\Hoff.Interview\\Hoff.Api\\Hoff.Api.csproj",
+        "projectPath": "C:\\!Pojects\\HoffTestTask\\Hoff.Api\\Hoff.Api.csproj",
         "packagesPath": "C:\\Users\\William\\.nuget\\packages\\",
-        "outputPath": "C:\\!Pojects\\Interview\\Hoff\\Hoff.Interview\\Hoff.Api\\obj\\",
+        "outputPath": "C:\\!Pojects\\HoffTestTask\\Hoff.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
