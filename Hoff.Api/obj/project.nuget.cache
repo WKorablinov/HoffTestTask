@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UVncfkuS7JFlPwCYGK2hY2nhN+lhAlK+c4VrN0YPLSrO/h99YuwNVwCOaMguKuaKEGJd68tnm3qhC08WdycXdw==",
+  "dgSpecHash": "1uylEW8K/NV7+IAQeu0MF/+6AkLmR44TFtJVmBywGiBW8i2dTL+yYxBNT/0+RfIvDbwIZABQP3Zem646xtA3qQ==",
   "success": true,
-  "projectFilePath": "C:\\!Pojects\\Interview\\Hoff\\Hoff.Interview\\Hoff.Api\\Hoff.Api.csproj",
+  "projectFilePath": "C:\\!Pojects\\HoffTestTask\\Hoff.Api\\Hoff.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\William\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
     "C:\\Users\\William\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\9.0.0\\mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
